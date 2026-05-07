@@ -10,7 +10,7 @@ eleventyNavigation:
 
 Cet atelier propose une introduction au web, explorant son historique et ses principes théoriques, ainsi que les trois langages essentiels qui structurent les contenus en ligne : HTML5, CSS3 et JavaScript. Conjuguant théorie et pratique, le cours accompagne les participant·e·s dans la création de sites web, à travers des exercices individuels et collectifs supervisés, des démonstrations et des explications magistrales. L'objectif est de transmettre des méthodes opérationnelles de conception de sites web, enrichies par des perspectives sur son architecture.
 
-À la fin de l'atelier, les étudiant·e·s seront en mesure de construire et de gérer des sites web, en maîtrisant la hiérarchie des fichiers et les principes de navigation. Iels seront également capables de personnaliser des pages complexes créées par des tiers. Enfin, des notions de base en JavaScript leur permettront d'intégrer des interactions dans la page, d'utiliser des générateurs de sites statiques pour la création de _layouts_ et de _templates_, ainsi que d'incorporer des requêtes API.
+À la fin de l'atelier, les étudiant·e·s seront en mesure de construire et de gérer des sites web, en maîtrisant la hiérarchie des fichiers et les principes de navigation. Iels seront également capables de personnaliser des pages complexes créées par des tiers. Enfin, des notions de base en JavaScript leur permettront d'intégrer des interactions dans la page, d'utiliser des générateurs de sites statiques pour la création de gabarits, ainsi que d'incorporer des requêtes API.
     
 ## Objectifs et compétences visés
 
